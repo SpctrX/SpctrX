@@ -3,7 +3,7 @@
 
 ## I'm a Firefighter, Developer and Projectowner!!
 
-- 🎮 I just launched a GTA V roleplay server: [Prime V - German Roleplay][course]
+- 🎮 I just launched a GTA V roleplay server: [Prime V - German Roleplay](https://primev-rp.de)
 - 💡 I’m currently learning what I like
 
 <br />
