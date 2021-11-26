@@ -1,4 +1,4 @@
-name: Latest stack overflow activity
+name: Latest Github activity
 on:
   schedule:
     # Runs every 5 minutes
@@ -7,12 +7,12 @@ on:
   
 jobs:
   update-readme-with-stack-overflow:
-    name: Update this repo's README with latest activity from StackOverflow
+    name: Update this repo's README with latest activity from Github
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          comment_tag_name: "STACKOVERFLOW"
-          commit_message: "Updated readme with the latest stackOverflow data"
+          comment_tag_name: "GITHUB"
+          commit_message: "Updated readme with the latest Github data"
           feed_list: "https://github.com/SpctrX"
