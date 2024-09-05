@@ -1,11 +1,6 @@
 
 ### Hi there, I'm  Spctr.
 
-## I'm a Firefighter, Developer and Projectowner!!
-
-- 🎮 I just launched a GTA V roleplay server: [Prime V - German Roleplay](https://primev-rp.de)
-- 💡 I’m currently learning what I like
-
 <br />
 
 ### Languages and Tools:
